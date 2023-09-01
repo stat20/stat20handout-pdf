@@ -1,0 +1,13 @@
+---
+title: "Probability"
+subtitle: "PS"
+affiliation: "Stat 20"
+format: stat20handout-pdf
+---
+
+This is an example of a document in the `stat20handout` format. It is designed for handouts that students will write on, therefore it maximizes writing space with a small title block, smaller font, and slimmer margins.
+
+How it works:
+
+1. It uses the `fancyhdr` package to create a very slim horizontal title block at the top of the document followed by a horizontal rule.
+2. The title block recognizes three yaml keys: `title`, `subtitle` and `affiliation`. They will display in the title block as `affiliation subtitle: title`.
