@@ -2,7 +2,7 @@
 title: "Probability"
 subtitle: "PS"
 affiliation: "Stat 20"
-format: stat20handout-pdf
+format: stat20handout-typst
 ---
 
 This is an example of a document in the `stat20handout` format. It is designed for handouts that students will write on, therefore it maximizes writing space with a small title block, smaller font, and slimmer margins.
