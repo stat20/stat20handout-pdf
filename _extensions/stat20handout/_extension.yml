@@ -6,7 +6,7 @@ contributes:
   formats:
     typst:
       fontsize: 11pt
-      template-partials:
-        - typst-template.typ
-        - typst-show.typ
+      # template-partials:
+      #   - typst-template.typ
+      #   - typst-show.typ
 
